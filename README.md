@@ -1,1 +1,1 @@
-# llm-playground
+# llm_playground
