@@ -9,3 +9,7 @@ build/
 */.ipynb_checkpoints/
 .jupyter/
 .DS_Store
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars

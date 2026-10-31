@@ -5,6 +5,7 @@ description = "A small playground for trying out various LLMs from Jupyter noteb
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "gradio>=6.30.0",
     "ipykernel",
     "jupyter",
     "litellm",
